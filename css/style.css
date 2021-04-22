@@ -1,0 +1,11 @@
+.content {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+canvas {
+    background-color: lightgray;
+}
+#ovni {
+    background-color: blue;
+}
