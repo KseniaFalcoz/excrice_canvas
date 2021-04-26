@@ -1,11 +1,29 @@
+#index {
+    background-image: url("../img/fon.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
 .content {
     max-width: 600px;
     margin: auto;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 canvas {
     background-color: white;
 }
 #ovni {
     background-color: blue;
+}
+#house, #car, #cone, #ovni, #biscuit {
+    margin: auto;
+}
+h1, p {
+    color: rgb(85, 50, 10);
+}
+a {
+    color: rgb(170, 36, 2);
+}
+a:visited {
+    color: rgb(236, 173, 2);
 }
